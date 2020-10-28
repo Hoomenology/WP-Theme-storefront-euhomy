@@ -1,14 +1,21 @@
 /*
 Theme Name:     Storefront Euhomy
-Template:       storefront
 Version:        0.1.0
 */
 
-/* @tailwind base;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 * {
   @apply text-base;
-} */
+}
 
+.site-header {
+  background-color: #00629b;
+  height: 90px;
+}
+
+.site-branding img {
+  height: 25px;
+}
