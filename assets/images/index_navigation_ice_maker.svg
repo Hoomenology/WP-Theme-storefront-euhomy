@@ -1,0 +1,37 @@
+<svg id="_0" data-name="0" xmlns="http://www.w3.org/2000/svg" width="140" height="184" viewBox="0 0 140 184">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-1 {
+        stroke-width: 10px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path id="_14" data-name=" 14" class="cls-1" d="M31,10h76c3.314,0,3.787,2.284,6,6l18,36.753V168a6,6,0,0,1-6,6H14a6,6,0,0,1-6-6V52.753L25,16C26.408,12.686,27.686,10,31,10Z"/>
+  <path id="_10" data-name=" 10" class="cls-2" d="M37,23h64l15,32H23Z"/>
+  <rect id="_11" data-name="11" class="cls-3" x="50" y="62" width="40" height="15" rx="2.5" ry="2.5"/>
+  <rect id="_11_" data-name=" 11 " x="8" y="103" width="123" height="4" rx="2" ry="2"/>
+  <g id="_5" data-name="5">
+    <rect id="_11_2" data-name=" 11  2" x="28" y="118" width="20" height="4" rx="2" ry="2"/>
+    <rect id="_11_3" data-name="11 3" x="60" y="118" width="20" height="4" rx="2" ry="2"/>
+    <rect id="_11_4" data-name="11 4" x="92" y="118" width="20" height="4" rx="2" ry="2"/>
+    <rect id="_11_2-2" data-name="11 2" x="28" y="135" width="20" height="4" rx="2" ry="2"/>
+    <rect id="_11_3-2" data-name="11 3" x="60" y="135" width="20" height="4" rx="2" ry="2"/>
+    <rect id="_11_4-2" data-name="11 4" x="92" y="135" width="20" height="4" rx="2" ry="2"/>
+    <rect id="_11_2-3" data-name="11 2" x="28" y="151" width="20" height="4" rx="2" ry="2"/>
+    <rect id="_11_3-3" data-name="11 3" x="60" y="151" width="20" height="4" rx="2" ry="2"/>
+    <rect id="_11_4-3" data-name="11 4" x="92" y="151" width="20" height="4" rx="2" ry="2"/>
+  </g>
+</svg>

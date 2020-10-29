@@ -53,3 +53,9 @@ function new_loop_shop_per_page( $cols ) {
     $cols = 1000;
     return $cols;
 }
+
+function euhomy_enqueue_scripts() {
+    wp_enqueue_script( 'euhomy-main', get_stylesheet_directory_uri() . '/assets/js/main.js' );
+}
+
+add_action( 'wp_enqueue_scripts', 'euhomy_enqueue_scripts' );
