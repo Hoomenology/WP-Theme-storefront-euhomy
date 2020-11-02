@@ -28,13 +28,14 @@ module.exports = {
         }
       },
       fontSize: {
-        'xs': ['12px', '13px'],
-        'base': ['14px', '22px'],
-        'sm': ['16px', '28px'],
-        'lg': ['20px', '22px'],
-        'xl': ['26px', '72px'],
-        '2xl': ['36px', '72px'],
-        '3xl': ['61px', '72px'],
+        'xs': ['14px'],
+        'base': ['16px'],
+        'sm': ['18px'],
+        'lg': ['20px'],
+        'xl': ['24px'],
+        '2xl': ['26px'],
+        '3xl': ['30px'],
+        'xxl': ['150px', '39px'],
       },
       borderRadius: {
         'none': '0',

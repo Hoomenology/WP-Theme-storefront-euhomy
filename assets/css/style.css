@@ -8,11 +8,6 @@ Version:        0.1.0
 @tailwind utilities;
 
 
-* {
-  font-size: 14px;
-  line-height: 22px;
-}
-
 img {
   vertical-align: middle;
 }
@@ -50,3 +45,4 @@ input:focus, textarea:focus {
 .menu-link:hover {
   @apply text-blue-0;
 }
+

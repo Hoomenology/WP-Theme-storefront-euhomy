@@ -9,13 +9,12 @@
 
 ?>
 
-		</div><!-- .col-full -->
 	</div><!-- #content -->
 
 	<?php do_action( 'storefront_before_footer' ); ?>
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="col-full">
+	<footer id="colophon" class="site-footer bg-gray-100 border-b border-blue-0" role="contentinfo">
+		<div class="container">
 
 			<?php
 			/**
@@ -24,7 +23,8 @@
 			 * @hooked storefront_footer_widgets - 10
 			 * @hooked storefront_credit         - 20
 			 */
-			do_action( 'storefront_footer' );
+            // do_action( 'storefront_footer' );
+            do_action( 'euhomy_footer' );
 			?>
 
 		</div><!-- .col-full -->

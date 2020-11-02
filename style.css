@@ -10849,38 +10849,31 @@ video {
 }
 
 .text-xs {
-  font-size: 12px;
-  line-height: 13px;
+  font-size: 14px;
 }
 
 .text-sm {
-  font-size: 16px;
-  line-height: 28px;
+  font-size: 18px;
 }
 
 .text-base {
-  font-size: 14px;
-  line-height: 22px;
+  font-size: 16px;
 }
 
 .text-lg {
   font-size: 20px;
-  line-height: 22px;
 }
 
 .text-xl {
-  font-size: 26px;
-  line-height: 72px;
+  font-size: 24px;
 }
 
 .text-2xl {
-  font-size: 36px;
-  line-height: 72px;
+  font-size: 26px;
 }
 
 .text-3xl {
-  font-size: 61px;
-  line-height: 72px;
+  font-size: 30px;
 }
 
 .text-4xl {
@@ -10893,6 +10886,11 @@ video {
 
 .text-6xl {
   font-size: 4rem;
+}
+
+.text-xxl {
+  font-size: 150px;
+  line-height: 39px;
 }
 
 .leading-3 {
@@ -22038,11 +22036,6 @@ video {
           animation: bounce 1s infinite;
 }
 
-* {
-  font-size: 14px;
-  line-height: 22px;
-}
-
 img {
   vertical-align: middle;
 }
@@ -32343,38 +32336,31 @@ input:focus, textarea:focus {
   }
 
   .sm\:text-xs {
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 14px;
   }
 
   .sm\:text-sm {
-    font-size: 16px;
-    line-height: 28px;
+    font-size: 18px;
   }
 
   .sm\:text-base {
-    font-size: 14px;
-    line-height: 22px;
+    font-size: 16px;
   }
 
   .sm\:text-lg {
     font-size: 20px;
-    line-height: 22px;
   }
 
   .sm\:text-xl {
-    font-size: 26px;
-    line-height: 72px;
+    font-size: 24px;
   }
 
   .sm\:text-2xl {
-    font-size: 36px;
-    line-height: 72px;
+    font-size: 26px;
   }
 
   .sm\:text-3xl {
-    font-size: 61px;
-    line-height: 72px;
+    font-size: 30px;
   }
 
   .sm\:text-4xl {
@@ -32387,6 +32373,11 @@ input:focus, textarea:focus {
 
   .sm\:text-6xl {
     font-size: 4rem;
+  }
+
+  .sm\:text-xxl {
+    font-size: 150px;
+    line-height: 39px;
   }
 
   .sm\:leading-3 {
@@ -53726,38 +53717,31 @@ input:focus, textarea:focus {
   }
 
   .md\:text-xs {
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 14px;
   }
 
   .md\:text-sm {
-    font-size: 16px;
-    line-height: 28px;
+    font-size: 18px;
   }
 
   .md\:text-base {
-    font-size: 14px;
-    line-height: 22px;
+    font-size: 16px;
   }
 
   .md\:text-lg {
     font-size: 20px;
-    line-height: 22px;
   }
 
   .md\:text-xl {
-    font-size: 26px;
-    line-height: 72px;
+    font-size: 24px;
   }
 
   .md\:text-2xl {
-    font-size: 36px;
-    line-height: 72px;
+    font-size: 26px;
   }
 
   .md\:text-3xl {
-    font-size: 61px;
-    line-height: 72px;
+    font-size: 30px;
   }
 
   .md\:text-4xl {
@@ -53770,6 +53754,11 @@ input:focus, textarea:focus {
 
   .md\:text-6xl {
     font-size: 4rem;
+  }
+
+  .md\:text-xxl {
+    font-size: 150px;
+    line-height: 39px;
   }
 
   .md\:leading-3 {
@@ -75109,38 +75098,31 @@ input:focus, textarea:focus {
   }
 
   .lg\:text-xs {
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 14px;
   }
 
   .lg\:text-sm {
-    font-size: 16px;
-    line-height: 28px;
+    font-size: 18px;
   }
 
   .lg\:text-base {
-    font-size: 14px;
-    line-height: 22px;
+    font-size: 16px;
   }
 
   .lg\:text-lg {
     font-size: 20px;
-    line-height: 22px;
   }
 
   .lg\:text-xl {
-    font-size: 26px;
-    line-height: 72px;
+    font-size: 24px;
   }
 
   .lg\:text-2xl {
-    font-size: 36px;
-    line-height: 72px;
+    font-size: 26px;
   }
 
   .lg\:text-3xl {
-    font-size: 61px;
-    line-height: 72px;
+    font-size: 30px;
   }
 
   .lg\:text-4xl {
@@ -75153,6 +75135,11 @@ input:focus, textarea:focus {
 
   .lg\:text-6xl {
     font-size: 4rem;
+  }
+
+  .lg\:text-xxl {
+    font-size: 150px;
+    line-height: 39px;
   }
 
   .lg\:leading-3 {
@@ -96492,38 +96479,31 @@ input:focus, textarea:focus {
   }
 
   .xl\:text-xs {
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 14px;
   }
 
   .xl\:text-sm {
-    font-size: 16px;
-    line-height: 28px;
+    font-size: 18px;
   }
 
   .xl\:text-base {
-    font-size: 14px;
-    line-height: 22px;
+    font-size: 16px;
   }
 
   .xl\:text-lg {
     font-size: 20px;
-    line-height: 22px;
   }
 
   .xl\:text-xl {
-    font-size: 26px;
-    line-height: 72px;
+    font-size: 24px;
   }
 
   .xl\:text-2xl {
-    font-size: 36px;
-    line-height: 72px;
+    font-size: 26px;
   }
 
   .xl\:text-3xl {
-    font-size: 61px;
-    line-height: 72px;
+    font-size: 30px;
   }
 
   .xl\:text-4xl {
@@ -96536,6 +96516,11 @@ input:focus, textarea:focus {
 
   .xl\:text-6xl {
     font-size: 4rem;
+  }
+
+  .xl\:text-xxl {
+    font-size: 150px;
+    line-height: 39px;
   }
 
   .xl\:leading-3 {
@@ -107615,3 +107600,4 @@ input:focus, textarea:focus {
             animation: bounce 1s infinite;
   }
 }
+
